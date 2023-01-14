@@ -30,7 +30,7 @@ def ready():
          ▉▉ ▉▉   ▉▉  ▉▉              ▉▉                device info
          ▉▉  ▉▉  ▉▉  ▉▉▉▉▉▉▉▉▉▉      ▉▉         mac           wireless
          ▉▉   ▉▉ ▉▉  ▉▉              ▉▉               scan
-    SCAN ▉▉    ▉▉▉▉  ▉▉▉▉▉▉▉▉▉▉      ▉▉    off3nied         network
+    SCAN ▉▉    ▉▉▉▉  ▉▉▉▉▉▉▉▉▉▉      ▉▉    off3nied       network
     ''')
 
 call(["clear"])
