@@ -4,6 +4,7 @@ from subprocess import call
 from time import sleep
 from mac_vendor_lookup import MacLookup
 
+
 def scan(ip):
     arp_request = scapy.ARP(pdst = ip)
     broadcast = scapy.Ether(dst = "ff:ff:ff:ff:ff:ff")
